@@ -1,0 +1,32 @@
+body {
+    background-color: #292929;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    padding: 10px 40px;
+    max-width: 750px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 36px;
+}
+
+h5 {
+    color: #8a8a8a;
+}
+
+img {
+    max-width: 50%; 
+    height: auto;  
+}
+
+
+a {
+    color: #ffffff;        
+    text-decoration: none;
+}
+
+p, li {
+    line-height: 1.5; 
+}
